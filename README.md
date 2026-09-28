@@ -1,27 +1,18 @@
-# Nexus Performance — Projeto novo do zero
+# Nexus Performance — V2 visual
 
-Esta edição é preparada especificamente para o upload pelo GitHub Pages sem subpastas.
+Reconstrução nova baseada diretamente no mockup visual fornecido.
 
-Estrutura intencional:
-- index.html
-- app.css
-- app.js
-- manifest.webmanifest
-- sw.js
-- logo.svg
-- icon.svg
-- imagens JPG dos exercícios na raiz
+Foco desta versão:
+- layout mobile-first compacto e premium;
+- dashboard de referência;
+- glicemia com visão de hoje/7 dias/30 dias (estrutura visual);
+- dieta com 6 refeições + ceia;
+- tela própria de substituições;
+- treino A–E com imagens e registros;
+- histórico;
+- PWA;
+- atualização do Service Worker com rede primeiro.
 
-O layout é mobile-first e usa a referência visual enviada como briefing.
-
-Módulos:
-- Dashboard
-- Glicemia ao longo do dia
-- Dieta com 6 refeições + ceia
-- 5 substituições por alimento
-- Registro de insulina aplicada por refeição
-- Treinos A–E com imagens
-- Séries, repetições, carga e RPE
-- Histórico local
-
-O app não calcula nem recomenda doses de insulina.
+Observação clínica:
+- o app registra a insulina aplicada por refeição;
+- não calcula nem recomenda dose de insulina.
