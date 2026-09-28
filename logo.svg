@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
-<rect width="520" height="120" rx="20" fill="#070a0d"/>
-<text x="28" y="72" font-family="Arial" font-size="52" font-weight="900" fill="#f7f7f7">NEXUS</text>
-<circle cx="240" cy="56" r="11" fill="#ff3b30"/>
-<text x="262" y="72" font-family="Arial" font-size="26" font-weight="800" fill="#f7f7f7">PERFORMANCE</text>
+<rect width="520" height="120" rx="22" fill="#070a0d"/>
+<text x="28" y="74" font-family="Arial" font-size="54" font-weight="900" fill="#f7f7f7">NEXUS</text>
+<circle cx="240" cy="57" r="11" fill="#ff3b30"/>
+<text x="262" y="74" font-family="Arial" font-size="26" font-weight="800" fill="#f7f7f7">PERFORMANCE</text>
 </svg>

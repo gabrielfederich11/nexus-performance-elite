@@ -1,18 +1,16 @@
-# Nexus Performance — V2 visual
+# Nexus Performance V3
 
-Reconstrução nova baseada diretamente no mockup visual fornecido.
+Projeto reconstruído do zero usando a imagem de referência como briefing visual.
 
-Foco desta versão:
-- layout mobile-first compacto e premium;
-- dashboard de referência;
-- glicemia com visão de hoje/7 dias/30 dias (estrutura visual);
+A V3 prioriza:
+- topo com menu + configurações;
+- navegação inferior;
+- dashboard compacto;
+- módulo de glicemia com gráfico e aferições;
 - dieta com 6 refeições + ceia;
-- tela própria de substituições;
-- treino A–E com imagens e registros;
-- histórico;
-- PWA;
-- atualização do Service Worker com rede primeiro.
+- 5 substituições por alimento;
+- treino A–E com imagens, tags, séries, reps, carga e RPE;
+- histórico local;
+- PWA.
 
-Observação clínica:
-- o app registra a insulina aplicada por refeição;
-- não calcula nem recomenda dose de insulina.
+O app não calcula nem recomenda doses de insulina; o campo permite registrar a dose aplicada.
